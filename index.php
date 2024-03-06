@@ -44,11 +44,14 @@
             margin-right: auto;
             cursor: pointer;
         }
+        h4 {
+            font-weight:normal;
+        }
     </style>
 </head>
 <body>
     <h1>Random news pages I designed</h1>
-    <h2>I've been working in the news for more than 25 years. I've been a reporter, sub-editor, designer and now I'm a coder. I spent a lot of time on the design desk, won a few awards, and designed probably thousands of pages. I just found a folder with a few pages in so I'm just putting them here do I don't lose them. I'm not sure when these are from but I won the Regional Press Awards Designer of the Year in 2014 (just dropping that in) and I went over to web design in about 2018, so I'm guessing these are from around 2000s, 2010s.</h2>
+    <h4>I've been working in the news for more than 25 years. I've been a reporter, sub-editor, designer and now I'm a coder. I spent a lot of time on the design desk, won a few awards, and designed probably thousands of pages. I just found a folder with a few pages in so I'm just putting them here do I don't lose them. I'm not sure when these are from but I won the Regional Press Awards Designer of the Year in 2014 (just dropping that in) and I went over to web design in about 2018, so I'm guessing these are from around 2000s, 2010s.</h4>
     <div class="container">
         <?php
         $subfolders = array(
